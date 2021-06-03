@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A table declaring the titles of all such proclamations, as haue beene published in England, during the raigne of our soueragne lord King Iames</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21453</idno><idno type="EEBO-CITATION">23664587</idno>
+  <idno type="VID">26782</idno>
+  <idno type="EEBO-PROQUEST">2248527857</idno>
+  <idno type="STC">STC 7758.7</idno>
+  <idno type="STC">ESTC S4620</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A21453)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 26782)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1831:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A table declaring the titles of all such proclamations, as haue beene published in England, during the raigne of our soueragne lord King Iames</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>4 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>B. Norton and J. Bill,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1618]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publisher and date of publication suggested by STC (2nd ed.).</note>
+                  <note>Appended by handwritten titles of proclamations passed during the latter years of the reign of James I.</note>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in the Queen's College (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Proclamations --  Great Britain --  Chronology.</term>
+               <term type="geographic_name">Great Britain --  History --  James I, 1603-1625 --  Chronology.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1603-1625 --  Chronology.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="table_of_proclamations">
+            <pb facs="tcp:26782:1"/>
+            <pb n="1" facs="tcp:26782:1"/>
+            <head>A TABLE DECLARING THE TITLES of all such Proclamations, as haue beene published in England, during <hi>the Raigne of our Soueragne Lord King</hi> IAMES.</head>
+            <div n="1" type="year">
+               <head>Anno Primo Iacobi Regis.</head>
+               <p>
+                  <seg rend="decorInit">A</seg> Proclamation, declaring the vndoubted Right of our So<g ref="char:EOLhyphen"/>ueraigne Lord King IAMES, to the Crowne of the Realmes of England, Fraunce and Ireland, 24. <hi>Mar<g ref="char:EOLhyphen"/>ty</hi> fol. 1.</p>
+               <p>A proclamation signifying his Maiesties pleasure. That all men being in Office of Gouernment at the death of the late Queene <hi>Elizabeth,</hi> should so continue till his Maiesties further direction, 5. <hi>Aprilis</hi> fol. 3.</p>
+               <p>A proclamation, declaring at what values certaine Monies of Scot<g ref="char:EOLhyphen"/>land, shalbe currant within England, 8. <hi>Aprilis</hi> fol. 6.</p>
+               <p>A proclamation or direction, for the dispatch of Pacquets betweene London and Berwicke, for the seruice of the King, 8. <hi>Aprilis</hi> fol. 7.</p>
+               <p>A proclamation for attendance on the Kings person, and for receiuing of him by the Shiriffes of the seuerall Counties, at his first comming into England, 10. <hi>Aprilis</hi> fol. 8.</p>
+               <p>A proclamation for the discouery and apprehension of <hi>William Ru<g ref="char:EOLhyphen"/>then,</hi> and <hi>Patricke Ruthen,</hi> brethren to the late Earle of <hi>Gowry,</hi> 27. <hi>Aprilis</hi> fol. 9.</p>
+               <p>A forme of proclamation to be proclaimed by the Clearke of the Mar<g ref="char:EOLhyphen"/>ket, and he to see it executed touching prises of victuals, <hi>mense Maij</hi> fol. 11.</p>
+               <p>A proclamation inhibiting the vse and execution of any Charter or Graunt made by the late Queene <hi>Elizabeth,</hi> of any kind of Mono<g ref="char:EOLhyphen"/>polies, &amp; prohibiting the admittance of protections in suites of law, and against assignements of debts to the King without iust cause, and against the abuse of S<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ltpetermen, and Purueyours and Takers, and against the excessiue fees of Lawyers, Atturnies, Offiers and Clearkes in all the Kings Courts, both Ecclesiasticall and Tempo<g ref="char:EOLhyphen"/>rall, and also against prophanation of the Sabboth day 7. <hi>Maij</hi> fol. 12.</p>
+               <p>A proclamation against vnlawfull Hunting, 16. <hi>Maij.</hi> fol. 15.</p>
+               <p>A proclamation charging all Actors or partners in the incursion on the Borders, to resort to the Kings Commissioners at a day limitted, <hi>Maij</hi> fol. 16.</p>
+               <p>A proclamation for the vniting of England and Scotland, 19. <hi>Maij.</hi> fol. 17.</p>
+               <p>A Proclamation commaunding such Gentlemen to depart the Court and City of London, as are not bound to attendance, 29. <hi>Maij</hi> fol. 18.</p>
+               <p>A proclamation commaunding that no man abuse the Earle of Ty<g ref="char:EOLhyphen"/>rone, whom the King had receiued into grace and fauour, 8. <hi>Iunij</hi> fol. 19.</p>
+               <p>A proclamation concerning the surrender and auoydance of the Pat<g ref="char:EOLhyphen"/>tents for Tinne, 16. <hi>Iunij</hi> fol. 20.</p>
+               <p>A proclamation for recalling home of all warlike ships at Sea, 23. <hi>Iunij</hi> fol. 21.</p>
+               <p>A proclamation for the adiournement of part of Trinitie Terme, 23. <hi>Iunij</hi> fol. 23.</p>
+               <p>A proclamation for the apprehension of <hi>Anthony Copley,</hi> 2. <hi>Iulij.</hi> fol. 24.</p>
+               <p>A proclamation for the reformation of the great abuses in Measures, 5. <hi>Iulij</hi> fol. 25.</p>
+               <p>A proclamation signifying the Kings Maiesties pleasure, touching the resort of people to his Coronation, 6. <hi>Iulij</hi> fol. 28.</p>
+               <p>A proclamation for Iustice to be indifferently ministred to the subiects of England and Scotland, 8. <hi>Iulij</hi> fol. 29.</p>
+               <p>A proclamation for the deferring of <hi>S. Iames</hi> Faire for certaine daies, by reason of the Plague, and limitting how many persons shalbe at<g ref="char:EOLhyphen"/>tendant on such as shall serue the King at his Coronation, 11. <hi>Iulij</hi> fol. 30.</p>
+               <p>A proclamation for the apprehension of Sir <hi>Griffin Markham, William Watson,</hi> and <hi>William Clearke,</hi> 16. <hi>Iulij.</hi> fol. 31.</p>
+               <p>A proclamation enioyning all Lieutenants, and Iustices of Peace, to repaire into their Countries, and all idle persons to depart the Court, 29. <hi>Iulij.</hi> fol. 32.</p>
+               <p>A proclamation prohibiting the keeping of <hi>Bartholomew</hi> Faire, and <hi>Sturbridge</hi> Faire, and all other Faires within 50. miles of London, by reason of the Plague, 8. <hi>Augusti.</hi> fol. 33.</p>
+               <p>A proclamation against Inmates and multitudes of dwellers in <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Roomes and places in and about the Citie of London. And for the rasing and pulling downe of certaine new erected buildings <gap reason="illegible: faint" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <hi>Septembris,</hi> fol. 34.</p>
+               <p>A proclamation for the adiournement of part of <hi>Michaelmas</hi> Terms, 16. <hi>Septembris</hi> fol. 35.</p>
+               <p>A proclamation and orders for the due and speedie execution of the Statute against Rogues, Vagabonds, idle and dissolute persons <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7 <hi>Septembris</hi> fol. 36.</p>
+               <p>A proclamation to represse all Piracies and Depredations vpon the Sea, 30. <hi>Septembris</hi> fol. 38.</p>
+               <p>A proclamation for the further adiournement of part of <hi>Michaelmas</hi> Terme from Westminster to Winchester, 18. <hi>Octobris</hi> fol. 40.</p>
+               <p>A proclamation concerning such as seditiously seeke reformation <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Church matters, 24. <hi>Octobris</hi> fol. 42.</p>
+               <p>A proclamation against the vnlawfull conueying of goods between the two Realmes of England and Scotland, whereby the King is de<g ref="char:EOLunhyphen"/>frauded of his Customes, 4. <hi>Nouembris</hi> fol. 44.</p>
+               <p>A proclamation for transplantation of the Greames, 4. <hi>Decembris</hi> fol. 45.</p>
+               <p>A proclamation concerning the choice of Knights and Burgesses for the Parliaments, 11. <hi>Ianuarij</hi> fol. 46.</p>
+               <p>Orders conceiued by the Kings Maiesties Priuie Councell and by his Highnesse direction commaunded to bee executed, for restra<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> killing, eating, and dressing of Flesh in the time of Lent 17. <hi>Februa<g ref="char:EOLhyphen"/>rij</hi> fol. 49.</p>
+               <p>A proclamation commaunding all Iesuites, Seminaries, and other Priests, to depart the Realme by a day appointed, 22. <hi>Februarij</hi> fol. 51.</p>
+               <p>A proclamation for the authorising and Vniformitie of the Book<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Common Prayer to bee vsed throughout the Realme, 9. <hi>M<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> fol. 53.</p>
+               <p>Orders for thorow Posts, and Curriers, riding in post in the Kings Maiesties affaires, <hi>without date</hi> fol. 55.</p>
+               <p>Orders for the Posts of the Kings Maiesties Realmes, and for all men to obserue and obey in the speedy carriage of packquets, directed for his Highnesse affaires, <hi>without date</hi> fol. 57.</p>
+            </div>
+            <div n="2" type="year">
+               <head>¶ Anno Secundo Iacobi Regis.</head>
+               <p>A Proclamation for the true winding or folding of Woolle<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 18. <hi>Iunij</hi> fol. 58.</p>
+               <p>A proclamation forbidding Londoners to resort to <hi>Bristoll</hi> Faire by reason of the plague there; 8. <hi>Iulij</hi> fol. 59.</p>
+               <p>A proclamation for the prices of victuals within the Verge of the Cour<gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 60.</p>
+               <p>A proclam<gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ing conformitie to the forme of the service of GOD no<gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in the Realme, 16. <hi>Iulij</hi> fol. 61.</p>
+               <p>A proclamation app<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ing the day and place for the meeting of the Commissioners of England and Scotland, <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the same Kingdomes, 15 <hi>Septembris</hi> fol. <gap reason="illegible: blotted" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</p>
+               <p>A proclamation against <gap reason="illegible: blotted" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ing of Ships, 15. <hi>Octobris</hi> fol. <gap reason="illegible: blotted" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</p>
+               <p>A proclamation cōcerning the Kings Maiesties <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Brittaine, &amp;c. 20. <hi>Octobris</hi> fol. 65.</p>
+               <p>A proclamation for the search and apprehension of certaine <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Nouembris fol. 68.</p>
+               <p>A proclamation for valuation of Coynes of England and Scotland, 16. <hi>Nouembris</hi> fol. 69.</p>
+               <p>A proclamation for the prorogning of the <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of <hi>February</hi> vnto the 3. day of October <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4 Decembris. fol. <gap reason="illegible: blotted" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </p>
+               <p>A publication concerning all sorts of Gold and Silver <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, granted by his Maiesties L<gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> vnder <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Fe<g ref="char:EOLunhyphen"/>bruarij fol. 73.</p>
+               <p>A proclamation concerning <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> fol. 74.</p>
+               <p>A proclamation for <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>Martij</hi> fol. 76.</p>
+               <p>A proclamation for <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> fol. 7<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <pb facs="tcp:26782:2"/>
+               <pb n="2" facs="tcp:26782:2"/>
+               <p> A Note of the Head-lands of England, as they beare one from ano<g ref="char:EOLhyphen"/>ther agreeing with the plot of the description of the Countrey, with their seuerall distances, 4. <hi>Martij</hi> fol. 79.</p>
+            </div>
+            <div n="3" type="year">
+               <head>¶ Anno Tertio Iacobi Regis.</head>
+               <p>A Proclamation concerning Assart Lands, 12. <hi>Maij</hi> fol. 81.</p>
+               <p>A proclamation with certaine Ordinances to be obserued by his Maiesties Subiects, toward the King of Spaine and his subiects, 8. <hi>Iulij</hi> fol. 82.</p>
+               <p>A proclamation for Proroguing the Parliament, from the third day of <hi>October,</hi> vnto the fifth day of <hi>Nouember,</hi> 28. <hi>Iulij</hi> fol. 84.</p>
+               <p>A proclamation to redresse the mis-imployment of Landes, Goods, and other things giuen for charitable vses, 11. <hi>Augusti</hi> fol. 85.</p>
+               <p>A proclamation against certaine calumnious surmises concerning the Church gouernement of Scotland, 26. <hi>Septembris</hi> fol. 87.</p>
+               <p>A proclamation for the annihilating of Commissions formerly graun<g ref="char:EOLhyphen"/>ted for taking vp of Hounds and Dogs for the Kings vse, 27. <hi>Septem<g ref="char:EOLhyphen"/>bris</hi> fol. 88.</p>
+               <p>A proclamation for the search and apprehension of <hi>Thomas Percy,</hi> 5. <hi>Nouembris</hi> fol. 89.</p>
+               <p>A proclamation denouncing <hi>Thomas Percy, Robert Catesby, Ambrose Rookewood, Thomas VVinter, Edward Graunt, Iohn VVright, Christo<g ref="char:EOLhyphen"/>pher VVright,</hi> and <hi>Robert Ashfield,</hi> his adherents to be Traytors, 7. <hi>Nouembris</hi> fol. 90.</p>
+               <p>A proclamation promising reward to him that shall apprehend <hi>Tho<g ref="char:EOLhyphen"/>mas Percy,</hi> 8. <hi>Nouembris</hi> fol. 92.</p>
+               <p>A proclamation for the searching for and apprehending of <hi>Robert VVinter,</hi> and <hi>Stephen Littleton,</hi> 18. <hi>Nouembris</hi> fol. 93.</p>
+               <p>A proclamation warrenting Shiriffes to prosecute Rebels into other Counties, 19. <hi>Nouembris</hi> fol. 94.</p>
+               <p>A proclamation for the apprehension and discouerie of <hi>Iohn Gerrard, Henry Garnet,</hi> and <hi>Oswald Tesmond,</hi> 15. <hi>Ianuarij</hi> fol. 96.</p>
+               <p>A proclamation touching a seditious rumour suddenly raised, of some ill Accident happened to the Kinges Royall person, 22. <hi>Mar<g ref="char:EOLhyphen"/>tij</hi> fol. 98.</p>
+            </div>
+            <div n="4" type="year">
+               <head>¶ Anno Quarto Iacobi Regis.</head>
+               <p>A Proclamation declaring what Flags South and North <hi>Britaines,</hi> snall beare at Sea, 12. <hi>Aprilis</hi> fol. 99.</p>
+               <p>A proclamation for preuention of future abuses in Purueyance, 23. <hi>A<g ref="char:EOLhyphen"/>prilis</hi> fol. 100.</p>
+               <p>A proclamation charging all Iesuites, Seminaries, &amp;c. to depart the Land, 10. <hi>Iunij</hi> fol. 103.</p>
+               <p>A proclamation for the search and apprehension of certaine Pirates, 13 <hi>Iunij</hi> fol. 105.</p>
+               <p>A proclamation touching Passengers, 23. <hi>Augusts</hi> fol. 106.</p>
+               <p>A proclamation for the adiournement of part of <hi>Michaelmasse</hi> Terme, 23. <hi>Septembris</hi> fol. 107.</p>
+               <p>A proclamation forbidding all Londoners and other Inhabitants of places infected, to resort to the Court. 1. <hi>Nouembris</hi> fol. 108.</p>
+            </div>
+            <div n="5" type="year">
+               <head>¶ Anno Quinto Iacobi Regis.</head>
+               <p>A Proclamation for suppressing of persons riotously assembled in Northhamptonshire, for the laying open of Inclosures, 30. <hi>Maij</hi> fol. 109.</p>
+               <p>A proclamation signifying his Maiesties pleasure, as well for suppres<g ref="char:EOLhyphen"/>sing of riotous assemblies about Inclosures, as for reformation of Depopulations, 28. <hi>Iunij</hi> fol. 110.</p>
+               <p>A proclamation to restraine the Kings Subiects from departing out of the Realme, and also concerning the transportation of Gold and Sil<g ref="char:EOLhyphen"/>uer, 9 <hi>Iulij</hi> fol. 113.</p>
+               <p>A proclamation signifying his Maiesties gracious pardon for the Offendours about Inclosures, 24. <hi>Iulij</hi> fol. 115.</p>
+               <p>A publication signifying his Maiesties pleasure touching a License granted by his Maiesty to Sir <hi>Edward Hobby</hi> Knight, for buying and selling of wools, 21. <hi>Augusti</hi> fol. 116.</p>
+               <p>A proclamation concerning Starch, 23. <hi>Augusti</hi> fol. 117.</p>
+               <p>A proclamation for proroguing the Parliament, from the 16. of <hi>No<g ref="char:EOLhyphen"/>uember,</hi> untill the 10. of <hi>Februarie, vlt. Septembris</hi> fol. 119.</p>
+               <p>A proclamation for lurors, 5. <hi>Octobris</hi> fol. 120.</p>
+               <p>A proclamation touching new buildings, diuiding of houses and In<g ref="char:EOLhyphen"/>mates, 12. <hi>Octobris</hi> fol. 122.</p>
+               <p>A proclamation for restraint of the Inhabitants of places infected, from comming to the Court, 2. <hi>Nouembris</hi> fol. 124.</p>
+               <p>A proclamation touching the Earles of <hi>Tyrone</hi> and <hi>Tyrconnell,</hi> 15. <hi>No<g ref="char:EOLhyphen"/>uembris</hi> fol. 125</p>
+               <p>A proclamation for the apprehending of the Lord <hi>Maxwell,</hi> 19. <hi>De<g ref="char:EOLhyphen"/>cembris</hi> fol. 127.</p>
+               <p>A proclamation for proroguing the Parliament, from the tenth day of <hi>February,</hi> vntill the seuen and twentieth of <hi>October,</hi> 10. <hi>Ianuary</hi> fol. 128.</p>
+               <p>Orders conceiued by the Lords of his Maiesties Priuy Concell, and by his Highnesse speciall direction, commanded to bee put in exe<g ref="char:EOLhyphen"/>cution for the restraint of killing, dressing, and eating, of flesh in the Lent time, 22. <hi>Ianuarij</hi> fol. 129.</p>
+            </div>
+            <div n="6" type="year">
+               <head>¶ Anno Sexto Iacobi Regis.</head>
+               <p>A Proclamation against the Transportation of Leather, 31. <hi>Martij</hi> fol. 131.</p>
+               <p>A proclamation commanding the Oath of Allegiance to bee tendred to all the Kings Subiects comming from beyond the Seas, except Marchants and men of qualitie, 29. <hi>Aprilis</hi> fol. 133.</p>
+               <p>A proclamation for the preuenting and remedying of the dearth of graine and other victuals, 2. <hi>Iunij</hi> fol. 134.</p>
+               <p>A proclamation against making of Starch, 5. <hi>Iulij</hi> fol. 136.</p>
+               <p>A proclamation for Buildings, 25. <hi>Iulij</hi> fol. 138.</p>
+               <p>A proclamation for restraint of the shipping and transporting of hor<g ref="char:EOLhyphen"/>ses, 14. <hi>Augusts</hi> fol. 139.</p>
+               <p>A proclamation for proroguing the Parliament, from the seuen and twentieth of <hi>October,</hi> vntill the ninth of <hi>Februarie,</hi> 4. <hi>Septembris</hi> fol. 140.</p>
+               <p>A proclamation concerning Fines for Alienations of Landes holden in Chiefe, made without Record, 14. <hi>Octobris</hi> fol. 141.</p>
+               <p>A proclamation touching Maulsters, common Brewers, &amp; Ale-house keepers, 12. <hi>Decembris</hi> fol. 143.</p>
+               <p>A proclamation fro proroguing the Parliament, from the ninth of <hi>Februarie,</hi> vntill the ninth of <hi>Nouember,</hi> 4 <hi>Ianuarij</hi> fol. 144.</p>
+               <p>A proclamation against pirates, 8. <hi>Ianuarij</hi> fol. 145.</p>
+               <p>Orders conceiued by the Lords of his Maiesties priuie Councell, and by his Highnesse speciall direction commaunded to be put in execu<g ref="char:EOLhyphen"/>tion, for the restraint of killing, dressing, and eating of flesh in the time of Lent, 30. <hi>Ianuarij</hi> fol. 147.</p>
+               <p>A publication of the Kings Maiesties pattents granted to <hi>Abraham Ba<g ref="char:EOLhyphen"/>ker</hi> for the making of Smault, or blew Starch, 4. <hi>Februarij</hi> fol. 149.</p>
+               <p>A proclamation for preseruation of Woods, 14. <hi>Februarij</hi> fol. 151.</p>
+               <p>A proclamation giuing a further day for Fines for Alienations of Lands holden in Chiefe made without Record, 18. <hi>Februarij</hi> fol. <gap reason="illegible: faint" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</p>
+            </div>
+            <div n="7" type="year">
+               <head>¶ Anno Septimo Iacobi Regis.</head>
+               <p>A Proclamation for the calling in of such of the Bookes of his Ma<g ref="char:EOLhyphen"/>iesties Apologie of the Oath of Allegiance, as were of an erro<g ref="char:EOLhyphen"/>nious impression, 7. <hi>Aprilis</hi> fol. 154.</p>
+               <p>A proclamation signifying his Maiesties pleasure, to confirme by all meanes the estates of his Subiects against all defects in their Assu<g ref="char:EOLhyphen"/>rances, and all concealed Titles, 22. <hi>Aprilis</hi> fol. 155.</p>
+               <p>A proclamation touching Fishing, 6. <hi>Maij</hi> fol. 157.</p>
+               <p>Articles to be performed by vertue of the Kinges Maiesties Commissi<g ref="char:EOLhyphen"/>on of Sale touching Forrests, Parkes, and Chases, <hi>without date</hi> fol. 159.</p>
+               <p>A proclamation forbidding any person to carriepacquets, or letters to or from any Cities or Towne, by foot, or on horsebacke, except such as are allowed by authoritie, 15. <hi>Maij</hi> fol. 161.</p>
+               <p>Orders decreed vpon for the furtherance of Our seruice, as well in writing, as riding in poste. specially set downe and commanded to be obserued, where Our postes are established within our Countie of Kent, 15. <hi>Maij</hi> fol. 162.</p>
+               <p>A prohibition for Allome, 19. <hi>Iunij</hi> fol. 163.</p>
+               <p>A proclamation against Hunters, Stealers, and killers of Deare, with in any of the Kings Maiesties Forrests, Chases, or Parkes, 9. <hi>Septem<g ref="char:EOLhyphen"/>bris</hi> fol. 165.</p>
+               <p>A proclamation for the adiornement of part of <hi>Michaelmasse</hi> Terms, 22. <hi>Septembris</hi> fol. 167.</p>
+               <p>A proclamation for proroguing the parliament, for the ninth of <hi>Nouember</hi> vntill the ninth of <hi>February,</hi> 26. <hi>Septembris</hi> fol. 168.</p>
+               <p>A proclamation giuing further time for the amendment of defecting Titles, <hi>vlt. Nouembris</hi> fol. 169.</p>
+               <pb facs="tcp:26782:3"/>
+               <pb n="3" facs="tcp:26782:3"/>
+               <p> A proclamation inhibiting the Importation of Pepper from forraine parts, by any other persons then those of the <hi>East Indian</hi> Company, <hi>vlt. Nouembris</hi> fol. 170.</p>
+               <p>A proclamation forbidding the making of Starch, 10. <hi>Ianuarij</hi> fol. 172.</p>
+               <p>A proclamation for defectiue Titles, 11. <hi>Februarij</hi> fol. 174.</p>
+               <p>Orders conceiued by the Lords of his Maiesties Priuie Councel, &amp; by his Highnesse direction commanded to be executed, for restraint of killing, eating, and dressing of Flesh in the time of Lent, 12. <hi>Februa<g ref="char:EOLhyphen"/>rij</hi> fol. 175.</p>
+            </div>
+            <div n="8" type="year">
+               <head>¶ Anno Octauo Iacobi Regis.</head>
+               <p>A Proclamation for calling in and suppressing of a Booke called the <hi>Interpreter,</hi> written by Doctor <hi>Cowell</hi> a Ciuilian, 25. <hi>Martij</hi> fol. 177.</p>
+               <p>A proclamation for the due execution of all former Lawes against Re<g ref="char:EOLhyphen"/>cusants, giuing them a day to repaire to their owne dwellings, and not afterwards to come to the Court, or within ten miles of Lon<g ref="char:EOLhyphen"/>don, without speciall Licence, and for distraining of them as the Law requireth: And withall, that all Priests and Iesuites shall depart the Land by a day, no more to returne into the Realme: And for the ministering of the Oth of Alleagiance according to the Law, 2. <hi>Iunij</hi> fol. 178.</p>
+               <p>A proclamation for the vtter abolishing of the making of Starch of any stuffe whatsoeuer within the Realme of England, and domini<g ref="char:EOLhyphen"/>on of Wales, 22. <hi>Augusti</hi> fol. 182.</p>
+               <p>A proclamation for reuocation of certaine proclamations formerly set forth by the Kings Highnesse, 24. <hi>Septembris,</hi> fol. 185.</p>
+               <p>A proclamation declaring the Kings Maiesties intention to dissolue the Parliament, 31. <hi>Decembris.</hi> fol. 187.</p>
+               <p>Orders conceiued by the Lords of his Maiesties Priuy Councell, and by his Highnesse speciall direction, commanded to bee put in exe<g ref="char:EOLhyphen"/>cution for the restraint of killing, dressing, and eating, of flesh in the Lent time, 29. <hi>Ianuarij</hi> fol. 188.</p>
+            </div>
+            <div n="9" type="year">
+               <head>¶ Anno Nono Iacobi Regis.</head>
+               <p>A Proclamation for the Brittish Vndertakers to repaire into Ire<g ref="char:EOLhyphen"/>land, 13. <hi>Aprilis</hi> fol. 190.</p>
+               <p>A proclamation for the customing of such merchandises at the towne of Berwicke, as should be conueyed out of England into Scotland, and from Scotland to England, 17. <hi>Maij</hi> fol. 191.</p>
+               <p>A proclamation prohibiting the melting and culling of coynes of gold and siluer, being currant money in England, 18. <hi>Maij</hi> fol. 193.</p>
+               <p>A proclamation whereby it is commaunded that the Oath of Allegi<g ref="char:EOLhyphen"/>ance be administred according to the Lawes, 31. <hi>Maij</hi> fol. 194</p>
+               <p>A proclamation for the apprehension of the Ladie <hi>Arabella,</hi> and her husband <hi>William Seymour,</hi> second sonne to the Lord <hi>Beauchampe,</hi> being escaped out of prison, 4 <hi>Iunij</hi> fol. 196.</p>
+               <p>A proclamation for restraint of building in and about London, 3. <hi>Au<g ref="char:EOLhyphen"/>gusti.</hi> fol. 197.</p>
+               <p>A proclamation concerning building in and about London and West<g ref="char:EOLhyphen"/>minster, 10. <hi>Septembris</hi> fol. 199.</p>
+               <p>A proclamation for encreasing of the value of the coynes of gold cur<g ref="char:EOLhyphen"/>rant in England, and commanding the execution of diuers Statutes made against transportation of gold and siluer out of the Realme, 23. <hi>Nouembris</hi> fol. 201.</p>
+               <p>Orders conceiued by the Lords of his Maiesties Priuie Councell, and by his Highnesse speciall direction commanded to be put in execu<g ref="char:EOLhyphen"/>on, for the restraint of killing, dressing, and eating of flesh in the time of Lent, 16. <hi>Februarij</hi> fol. 204.</p>
+            </div>
+            <div n="10" type="year">
+               <head>¶ Anno Decimo Iocobi Regis.</head>
+               <p>A Proclamation for the apprehension of the Lord <hi>Sanquire,</hi> a No<g ref="char:EOLhyphen"/>ble man of Scotland, and of <hi>Robert Carlile</hi> his seruant, for murdering of one <hi>Turnour</hi> a Fencer, 13. <hi>Maij</hi> fol. 206.</p>
+               <p>A proclamation that none buy or sell any Bullion of gold or silver at higher prises then is appointed to bee paid for the same at his Mai<g ref="char:EOLhyphen"/>sties Mine, 14. <hi>Maij</hi> fol. 208.</p>
+               <p>A proclamation against the deceitfull dying silke with <hi>Slippe,</hi> or other corrupt stuffe, 17. <hi>Iulij</hi> fol. 210.</p>
+               <p>The effect of certaine Letters Pattents graunted by the King to <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oseph <hi>Vsher, Warner Rich,</hi> and <hi>Godfrey de Vette,</hi> for the making and <gap reason="illegible: faint" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ting of certaine engines or Waterworkes, 21. <hi>Septembri<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> fol. 211.</p>
+               <p>A proclamation against the vse of Pocket Dagges, 16. <hi>Ianuarij</hi> fol. 212.</p>
+               <p>A proclamation against transportation of Corne and graine, 19. <hi>Ia<g ref="char:EOLhyphen"/>nuarij</hi> fol. 213.</p>
+               <p>Orders conceiued by the Lords of his Maiesties Priuie Councell and by his Highnesse speciall direction commanded to be put in execut<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>on, for the restraint of killing, dressing, and eating of flesh in the Lent time, 5 <hi>Februarij</hi> fol. 214.</p>
+            </div>
+            <div n="11" type="year">
+               <p>¶ Anno Vndecimo Iacobi Regis.</p>
+               <p>A Proclamation for farthing Tokens, 19. <hi>Maij</hi> fol. 216.</p>
+               <p>A proclamation against the vttering of light Spanish Coyne, <gap reason="illegible: faint" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <hi>Maij</hi> fol. 218.</p>
+               <p>The effect of his Maiesties Letters Pattents granted to Ada<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> N<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Iohn Southcot,</hi> and <hi>Iohn Wood,</hi> for the vse of a new inuention of slee<g ref="char:EOLhyphen"/>ping all kind of graine that is to be sowen for the benefit of Hus<g ref="char:EOLhyphen"/>bandry, 5. <hi>Iunij</hi> fol. 219.</p>
+               <p>A proclamation for the search and apprehension of <hi>Iohn <gap reason="illegible: faint" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> Esquire, 11. <hi>Iunij</hi> fol. 220.</p>
+               <p>A proclamation prohibiting the vntimely bringing in of Wines, &amp;c. 11. <hi>Septembris</hi> fol. 222.</p>
+               <p>A proclamation prohibiting the publishing of any reports of <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ngs of duels, 15. <hi>Octobris</hi> fol. 223.</p>
+               <p>A Proclamation for the prises of victualls within the Verge of the Court, with a blanke Inquisition for the prises of victualls, by the Clearke of the Market, 5. <hi>Nouembris</hi> fol. 225.</p>
+               <p>Orders conceiued by the Lords of his Maiesties priuie Councell, and by his Highnesse speciall direction commaunded to be put in execu<g ref="char:EOLhyphen"/>tion, for the restraint of killing, dressing, and eating of flesh in the time of Lent, 12. <hi>Nouembris</hi> fol. 226.</p>
+               <p>A proclamation against the importation of any Felts, Hats, or Caps wrought or halfe wrought beyond the Seas, 2. <hi>Decembris.</hi> fol. 228.</p>
+               <p>A proclamation for the true working and dying of Clothes, 7. <hi>Decem<g ref="char:EOLhyphen"/>bris</hi> fol. 229.</p>
+               <p>A proclamation against priuate challenges and combates, with Articles annexed for the better directions to be vsed therein, and for the more iudiciall proceeding against Offendours, 4. <hi>Februarij</hi> fol. 231.</p>
+               <p>A proclamation declaring the Kinges Maiesties good opinion of the Deputie of Ireland, notwithstanding the complaints made against him by diuers Noblemen of that Kingdome, 7. <hi>Februarij</hi> fol. 237.</p>
+               <p>
+                  <hi>This Proclamation was not published in England, but sent into Ireland <gap reason="illegible: faint" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> proclaimed.</hi>
+               </p>
+            </div>
+            <div n="12" type="year">
+               <head>¶ Anno Duodecimo Iacobi Regis.</head>
+               <p>A Proclamation for the bani<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nt out of Ireland, all <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Archbishops, Bishop<gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>anes, Vicars generali<gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, Friars and Seminarie Priests, <hi>vlt.</hi>
+                  <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fol. 237.</p>
+               <p>
+                  <hi>This Proclamation was sent ouer into Ireland to be proclaimed, <gap reason="illegible: faint" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> published in England.</hi>
+               </p>
+               <p>A proclamation containing his Maies<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s Royall pleasure <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>rant and continuance of the Pattent and former Proclamation con<g ref="char:EOLhyphen"/>cerning Farthing Tokens, 21. <hi>Iunij</hi> fol. 239.</p>
+               <p>A proclamation conteining the Kings Maisties pleasure concerning the apprehension of the Greames, 22. <hi>Iulij</hi> fol. 2<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</p>
+               <p>A proclamation against the exportation of Clothes vndyed and vn<g ref="char:EOLunhyphen"/>dressed contrary to the Law, 23. <hi>Iulij</hi> fol. 243.</p>
+               <pb facs="tcp:26782:4"/>
+               <pb n="4" facs="tcp:26782:4"/>
+               <p> A proclamation against the bringing in of Whalesinnes into his Ma<g ref="char:EOLhyphen"/>iesties Dominions, but onely by the <hi>Muscouia</hi> Company of Mar<g ref="char:EOLhyphen"/>chants, 11 <hi>Septembris</hi> fol. 245.</p>
+               <p>A proclamation prohibiting the exportation of Sheep, Wools, Wool<g ref="char:EOLhyphen"/>fels, and Fullers earth, 26. <hi>Septembris</hi> fol. 246.</p>
+               <p>A proclamation prohibiting the importation of Allome, into any his Maiesties Dominions, 10. <hi>Octobris</hi> fol. 248.</p>
+               <p>A proclamation commanding the repaire of Noblemen and Gentle<g ref="char:EOLhyphen"/>men into their seuerall Countries at the end of the Terme, 24. <hi>Octo<g ref="char:EOLhyphen"/>bris</hi> fol. 251.</p>
+               <p>A proclamation against the transporting of Woolles, Woolfele, Ful<g ref="char:EOLhyphen"/>lers earth, and woollen yarne, &amp;c. 9. <hi>Nouembris</hi> fol. 252.</p>
+               <p>A proclamation prohibiting the Marchant Aduenturers Charter from thenceforth to be put in practise or execution, either within the king<g ref="char:EOLhyphen"/>dome, or beyond the Seas, 2. <hi>Decembris</hi> fol. 254.</p>
+               <p>orders conceiued by the Lords of his Maiesties Priuie Councell, and by his Highnesse speciall direction commanded to be put in executi<g ref="char:EOLhyphen"/>on, for the restraint of killing, dressing, and eating of flesh in the time of Lent, 10. <hi>Ianuarij</hi> fo. 256.</p>
+               <p>A proclamation against exportation of gold and siluer, 23. <hi>Martij</hi> fol. 258.</p>
+               <p>A proclamation against sending ouer children, and reliefe to Semina<g ref="char:EOLhyphen"/>ries, 23. <hi>Martij</hi> fol. 260.</p>
+            </div>
+            <div n="13" type="year">
+               <head>¶ Anno Decimo Tertio Iacobi Regis.</head>
+               <p>A Proclamation prohibiting the bringing in of any Commodities traded from the leuant, into this Kingdome, as well by subiects as strangers not free of that Company: Also containing a publicati<g ref="char:EOLhyphen"/>on of certaine Statutes for the restraint of all his Maiesties subiects from shipping any commodities in Strangers Bottomes, either into this Kingdome, or out of the same, 17. <hi>Aprilis</hi> fol. 265.</p>
+               <p>A proclamation for restraining of the seruing of Fee Decre, 22. <hi>Aprilis</hi> fol. 267.</p>
+               <p>A proclamation touching Glasses, 23. <hi>Maij</hi> fol. 268.</p>
+               <p>A proclamation commanding the due execution of two Statutes, a<g ref="char:EOLhyphen"/>gainst falsifying of wooll, and woollen yarne, for the better mainte<g ref="char:EOLhyphen"/>nance of Clothing, 31. <hi>Maij</hi> fol. 270.</p>
+               <p>A proclamation for Buildings, 16. <hi>Iulij</hi> fol. 271.</p>
+               <p>A proclamation for the due execution of Forrest lawes, 16. <hi>Septembris</hi> fol. 273.</p>
+               <p>A proclamation extending a former proclamation (for the restraint of shipping any commodities in Strangers Bottomes, eyther into this Kingdome or out of the same) vnto the speciall case of wines of the groweth of Fraunce, to be imported into this Kingdome, either by subiect or stranger, according to a Statute in that case prouided, 2. <hi>Octobris</hi> fol. 274.</p>
+               <p>A proclamation establishing the continuance of his Maiesties farthing Tokens, and prohibiting the vse of all other Tokens whatsoeuer, 26 <hi>Octobris</hi> fol. 275.</p>
+               <p>A proclamation for restraining the abuses in Tynne, according to the Lawes and Ordinances of the Stanneries, 26. <hi>Octobris</hi> fol. 276.</p>
+               <p>A proclamation for the conformation of all authorised orders, tending to the vniuersall publishing and teaching of a certaine Religious Treatise, compiled by Authoritie, and intituled by the name of <hi>God and the King,</hi> 8. <hi>Nouembris</hi> fol. 279.</p>
+               <p>A proclamation requiring the residency of Noblemen, Gentlemen, Lieutenants and Iustices of Peace, vpon their chiefe Mansions in the Countrey, for the better maintenance of hospitalitie, and discharge of their duties, 9. <hi>Decembris</hi> fol. 280.</p>
+               <p>Orders conceiued by the Lords of his Maiesties Priuie Councell, and by his Highnesse speciall direction, commaunded to bee put in exe<g ref="char:EOLhyphen"/>cution for the restraint of killing, dressing, and eating of flesh in the time of Lent, 29. <hi>Ianuarij</hi> fol. 282.</p>
+               <p>A prohibition by the Kings Maiesties Priuie Councell, against carry<g ref="char:EOLhyphen"/>ing of Packets and Letters to and from the parts beyond the Seas, 27 <hi>Ianuary</hi> fol. 284.</p>
+            </div>
+            <div n="14" type="year">
+               <head>¶ Anno Decimo Quinto Iacobi Regis.</head>
+               <p>A Proclamation against Steelers, Pocket Daggers, Pocket <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and Pistols, 26. <hi>Martij</hi> fol. 185.</p>
+               <p>A proclamation concerning the Kings Euill, 26. <hi>Martij</hi> fol. 286</p>
+               <p>A proclamation for the punishing of Vagabonds, Rogues, and <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> persons, 24. <hi>Iulij</hi> fol. 287.</p>
+               <p>A proclamation concerning Fee Decre, 18. <hi>Ianuarij</hi> fol. 289.</p>
+               <p>Orders conceiued by the Lords of his Maiesties Priuie Counc<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, and by his Highnesse speciall direction commanded to be put in execu<g ref="char:EOLunhyphen"/>tion, for the restraint of killing, dressing, and eating of flesh in the time of Lent, 20. <hi>Ianuarij</hi> fol. 290.</p>
+               <p>A proclamation for the prises of victualls within the Verge of the Court, with two blanke Inquisitions for the Clearke of the <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 24. <hi>Februarij</hi> fol. 292.</p>
+               <p>A proclamation for the continuing of farthing Tokens, 17. <hi>
+                     <gap reason="illegible: faint" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> fol. 295.</p>
+            </div>
+            <div n="15" type="year">
+               <head>¶ Anno Decimo Quinto Iacobi Regis.</head>
+               <p>A Proclamation for remouing the Staple of wools from pr<gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>yond the Seas, vnto certaine principal Cities and Townes <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in this our Realme, 24. <hi>Martij</hi> fol. 296.</p>
+               <p>A proclamation commanding the repaire of Noblemen and Gentlemen into their seuerall Countries, during his Maiesties iourney into Scotland, 8. <hi>Aprilis</hi> fol. 299.</p>
+               <p>A proclamation for restoring the auncient Marchant Aduenturers to their former trade and priuiledges, 12. <hi>Augusti</hi> fol. 300.</p>
+               <p>A proclamation for the better and more peaceable gouernement of the middle Shires of Northumberland, Cumberland, and Westmorland, 23. <hi>Decembris</hi> fol. 302.</p>
+               <p>Orders conceiued by the Lords of his Maiesties Priuie Councell, and by his Highnesse speciall direction commanded to be put in execu<g ref="char:EOLhyphen"/>tion, for the restraint of killing, dressing, and eating of flesh in the time of Lent, 27. <hi>Ianuarij</hi> fol. 306.</p>
+               <p>An order made by the Lords of the Kings Maiesties Priuie Councell, concerning the paiment of Headmoney, 15. <hi>Martij</hi> fol. 308.</p>
+               <p>A proclamation prohibiting the importation of Allome, and the buy<g ref="char:EOLhyphen"/>ing or spending thereof in any his Maiesties Dominions, 16 <hi>Martij</hi> fol. 309.</p>
+               <p>A proclamation for reforming the abuses in making of gold and siluer threed within this Realme, and for inhibiting the importation there<g ref="char:EOLhyphen"/>of from the parts beyond the Seas, 22. <hi>Martij</hi> fol. 312.</p>
+               <p>A Commission, with instructions and directions graunted by his Ma<g ref="char:EOLhyphen"/>iestie, to the Master and Councell of the Court of Wards and <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ries, for compounding for Wards, Ideots, and Lunatikes, 2<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Fe<g ref="char:EOLhyphen"/>bruarij</hi> fol. 316.</p>
+            </div>
+            <div n="16" type="year">
+               <head>¶ Anno Decimo Sexto Iacobi Regis.</head>
+               <p>A Proclamation commanding all Appothecaries of this Realme to follow the dispensatory lately compiled by the Colledge of Physitions of London, 26. <hi>Aprilis</hi> fol. 318.</p>
+               <p>A proclamation declaring the Kinges Maiesties pleasure, concerning Sir <hi>VValter Raleigh</hi> Knight, and those that aduentured with him, 9. <hi>Iunij</hi> fol. 320.</p>
+               <p>A proclamation inhibiting all persons, to vse the trade of a Ped<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> or pettie Chapman, vnlesse they be licensed, 6. <hi>Iulij</hi> fol. 321.</p>
+               <p>A proclamation to restraine the excessiue Carriages in Waggons and foure wheele Carts, to the destruction of Highway<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, 20 <hi>Iulij</hi> fol. 323.</p>
+               <p>A proclamation for reuoking of all Licences graunted, for erecting new building within London, or two miles distance; and <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>straint for new building within the same Compasse, 20. <hi>Iulij.</hi> fol. 325</p>
+               <p>A proclamation at the sollicitation of the King of Spaines Agent for pardon of such persons as were conuicted, for making of a sedi<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ous assault vpon the house of the Spanish Ambassadour in Barbican. 20. <hi>Septembris</hi> fol. 327.</p>
+               <pb facs="tcp:26782:5"/>
+               <pb facs="tcp:26782:5"/>
+               <pb facs="tcp:26782:6"/>
+               <pb facs="tcp:26782:6"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
